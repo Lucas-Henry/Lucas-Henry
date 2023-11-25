@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm current working in XPSystem on Oibot Team<br>I'm just a guy who loves the knowledge and the unknown so much more!<br>
+I'm current working in XPSystem on Oibot Team<br>
 
 
 ## 🌐 Socials:
