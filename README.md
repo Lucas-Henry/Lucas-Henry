@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm current working in OiBot developer team<br>
+I'm current working in OiBot developer team.<br>
 
 
 ## 🌐 Socials:
