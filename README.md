@@ -7,7 +7,7 @@ Core competencies include API design and implementation, intelligent automation 
 Committed to delivering highquality solutions that optimize operational efficiency and support organizational growth.
 
 ### Check out my portfolio! 
-[Lucas Henry](lucashenry.com.br)
+[Lucas Henry](https://lucashenry.com.br)
 
 ## Connect With Me
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
