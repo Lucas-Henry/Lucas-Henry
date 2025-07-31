@@ -1,7 +1,13 @@
 # Lucas Henry
 
 ## About Me
-I'm currently working in the OiBot developer team, focusing on creating innovative solutions.
+ExperiencedNode.js software developer with four years of proven expertise in architecting robust, scalable solutions that align with strategic business
+objectives. 
+Core competencies include API design and implementation, intelligent automation systems, microservices development, and performance-critical system integration. 
+Committed to delivering highquality solutions that optimize operational efficiency and support organizational growth.
+
+### Check out my portfolio! 
+[Lucas Henry](lucashenry.com.br)
 
 ## Connect With Me
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
