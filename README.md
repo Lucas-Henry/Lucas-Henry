@@ -15,8 +15,6 @@
   </a>
 </p>
 
-<br/>
-
 <h2>Let's Connect!</h2>
 
 <div align="center">
