@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lucas%20Henry&fontSize=42&fontColor=fff&fontAlignY=32"/>
+<h1>Lucas Henry</h1>
 
 <h3 align="center">Experienced Node.js Software Developer</h3>
 <p align="center">
