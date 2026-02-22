@@ -32,7 +32,7 @@
 
 ## About
 
-Four years of proven expertise in architecting robust, scalable backend solutions aligned with strategic business objectives.
+Five years of proven expertise in architecting robust, scalable backend solutions aligned with strategic business objectives.
 Core focus areas: **API design**, **intelligent automation**, **microservices architecture**, and **performance-critical system integration**.
 
 ---
