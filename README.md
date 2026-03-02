@@ -61,7 +61,7 @@ Core focus areas: **API design**, **intelligent automation**, **microservices ar
 
 <h4>Design & Tooling</h4>
 
-<img src="https://skillicons.dev/icons?i=figma,git,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=figma,git,vscode,neovim&theme=dark"/>
 
 ---
 
