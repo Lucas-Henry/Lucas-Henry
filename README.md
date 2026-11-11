@@ -32,7 +32,7 @@
 
 ## About
 
-Four years of proven expertise in architecting robust, scalable backend solutions aligned with strategic business objectives.
+Five years of proven expertise in architecting robust, scalable backend solutions aligned with strategic business objectives.
 Core focus areas: **API design**, **intelligent automation**, **microservices architecture**, and **performance-critical system integration**.
 
 ---
@@ -83,7 +83,7 @@ Core focus areas: **API design**, **intelligent automation**, **microservices ar
 
 <br/>
 
-## Contribution Activity
+<!-- ## Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Henry&theme=tokyo-night&hide_border=true&area=true&border_radius=16" width="95%" alt="Contribution Graph"/>
 
@@ -92,7 +92,7 @@ Core focus areas: **API design**, **intelligent automation**, **microservices ar
 ## Top Contributed Repositories
 
 <img src="https://github-contributor-stats.vercel.app/api?username=Lucas-Henry&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" width="65%"/>
-
+-->
 <br/>
 
 ---
